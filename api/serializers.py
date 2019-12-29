@@ -8,8 +8,8 @@ class QuoteSerializer(serializers.ModelSerializer):
         model = Quote
         # ('__all__')  for all fields
         # ['quote', 'author']
-        # fields = ['quote', 'author']
-        fields = ('__all__')
+        fields = ['quote', 'author','quote_category']
+        #fields = ('__all__')
 
 class QuoteCategorySerializer(serializers.ModelSerializer):
     class Meta:

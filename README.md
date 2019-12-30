@@ -1,4 +1,4 @@
-**REST key-val store**
+# **REST key-val store**
 
 Steps to Setup and Run The Project
 

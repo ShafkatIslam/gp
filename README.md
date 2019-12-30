@@ -6,6 +6,7 @@ Steps to Setup and Run The Project
 ✔️ It is mandatory that Python >= 3.6.5 must be installed in your system.Now, follow the below steps:
 
 The project will run both your local machine and also a public domain.
+I deployed it to the Heroku Server.
 
 URL : https://gpsoftwareengineer.herokuapp.com
 
